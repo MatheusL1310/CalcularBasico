@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calcular Basico</string>
+    <string name="hint1">Operando 1</string>
+    <string name="hint2">Operando 2</string>
+    <string name="sum">Soma</string>
+    <string name="subtraction">Subtração</string>
+    <string name="multiplication">Multiplicação</string>
+    <string name="division">Divisão</string>
+    <string name="calculate">CALCULAR</string>
+    <string name="text_result">RESULTADO:</string>
+    <string name="error_op">O campo está vazio!</string>
+    <string name="error_div">Operando 2 não pode ser 0!</string>
+    <string name="error_radiobtn">Nenhuma operação selecionada!</string>
+</resources>

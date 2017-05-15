@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">CalcularBasico</string>
+    <string name="app_name">Calculate Basic</string>
+    <string name="hint1">Operand 1</string>
+    <string name="hint2">Operand 2</string>
+    <string name="sum">Sum</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="division">Division</string>
+    <string-array name="operations">
+        <item>@string/sum</item>
+        <item>@string/subtraction</item>
+        <item>@string/multiplication</item>
+        <item>@string/division</item>
+    </string-array>
+    <string name="calculate">CALCULATE</string>
+    <string name="text_result">RESULT:</string>
+    <string name="error_op">The field is empty!</string>
+    <string name="error_div">Operand 2 cant be 0!</string>
+    <string name="error_radiobtn">No operation selected!</string>
+
 </resources>
